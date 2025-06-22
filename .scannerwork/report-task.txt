@@ -1,0 +1,6 @@
+projectKey=petstore-load-test
+serverUrl=http://localhost:9000
+serverVersion=25.6.0.109173
+dashboardUrl=http://localhost:9000/dashboard?id=petstore-load-test
+ceTaskId=5aa1926a-b514-4932-bd27-1526b1b2be24
+ceTaskUrl=http://localhost:9000/api/ce/task?id=5aa1926a-b514-4932-bd27-1526b1b2be24
